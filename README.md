@@ -460,5 +460,5 @@ opensea查看方式类似。
 
 后续我也将尝试开发一款具有完整的NFT数字藏品铸造、展示和交易的网站来一起交流学习。欢迎持续关注！
 
-![](https://cdn.jsdelivr.net/gh/hicoldcat/assets@main/img/my.jpg)
+![](https://cdn.jsdelivr.net/gh/hicoldcat/assets@main/img/my.png)
 
